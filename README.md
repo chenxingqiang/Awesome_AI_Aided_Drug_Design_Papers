@@ -20,7 +20,7 @@
 
 **Journal of Computer Aided Molecular Design**
 
-****
+
 
 ## ADR  
 *2017*
