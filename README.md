@@ -1,5 +1,26 @@
 # awesome_ai_drug_papers
 
+## Journals
+
+**BMC Pharmacology and Toxicology**
+
+**Journal of the American Medical Informatics Association**
+
+**Bioinformatics**
+
+**Drug Safety**
+
+**JOURNAL OF MEDICAL INTERNET RESEARCH**
+
+**arXiv**
+
+**Journal of Cheminformations**
+
+**Journal of Chemical Information and Modeling**
+
+**Journal of Computer Aided Molecular Design**
+
+****
 
 ## ADR  
 *2017*
