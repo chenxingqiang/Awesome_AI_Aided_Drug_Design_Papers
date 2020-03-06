@@ -21,6 +21,11 @@
 **Journal of Computer Aided Molecular Design**
 
 ## **arXiv hot Papers with code**
+
+*2020/03/06*
+
+Cross-GCN: Enhancing Graph Convolutional Network with k-Order Feature  Interactions <a href="https://arxiv.org/abs/2003.02587">[paper] </a> 
+
 *2019*
 A Model to Search for Synthesizable Molecules <a href="https://arxiv.org/abs/1906.05221">[paper]</a>  <a href="https://github.com/john-bradshaw/molecule-chef"> [code] </a> 
 ## ADR  
