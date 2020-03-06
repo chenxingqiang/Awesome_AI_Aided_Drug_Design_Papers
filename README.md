@@ -20,10 +20,9 @@
 
 **Journal of Computer Aided Molecular Design**
 
-## **arXiv hot Papers**
+## **arXiv hot Papers with code**
 *2019*
-A Model to Search for Synthesizable Molecules
-
+A Model to Search for Synthesizable Molecules <a href="https://arxiv.org/abs/1906.05221">[paper]</a>  <a href="https://github.com/john-bradshaw/molecule-chef"> [code] </a> 
 ## ADR  
 *2017*
 
