@@ -1,4 +1,4 @@
-# awesome_ai_drug_papers
+# Awesome AI Aided Drug Design Papers
 
 ## Journals
 
@@ -265,7 +265,7 @@ Journal of chemical information and modeling_Applications of self-organizing neu
 
 *2011*
 
-European Journal of Medicinal Chemistry_Ligand-based virtual screening procedure for the prediction and the identification of novel ¦Â-amyloid aggregation inhibitors
+European Journal of Medicinal Chemistry_Ligand-based virtual screening procedure for the prediction and the identification of novel ¦Â-amyloid aggregation inhibitors
 
 *2014*
 
