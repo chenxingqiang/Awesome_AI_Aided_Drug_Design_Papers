@@ -1,4 +1,4 @@
-# Awesome AI Aided Drug Design Papers
+# **Awesome AI Aided Drug Design Papers**
 
 ## Journals
 
@@ -20,7 +20,9 @@
 
 **Journal of Computer Aided Molecular Design**
 
-
+## **arXiv hot Papers**
+*2019*
+A Model to Search for Synthesizable Molecules
 
 ## ADR  
 *2017*
